@@ -1,0 +1,16 @@
+@import"./global/global.css";
+@import"./ultilidadaes/tipografia.css";
+@import"./ultilidadaes/cores.css";
+
+@import "./global/header.css";
+
+/*ultilidades*/
+@import"./ultilidadaes/componentes.css";
+
+
+/*home*/
+@import "./home/introducao.css";
+
+
+
+
